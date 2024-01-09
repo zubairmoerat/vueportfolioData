@@ -17,30 +17,26 @@
         {
             "id": 1,
             "year": 2023,
-            "description": "I'm a co-owner of SoloCloud Distributions.",
-            "place": "Binjai Juice",
-            "type": "certificate"
+            "description": "I'm furthering my Software Development skills.",
+            "place": "Life Choices",
         },
         {
             "id": 2,
             "year": 2022,
             "description": "I got my certificates on graphic design.",
             "place": "GoogleSkills",
-            "type":"certificate"
         },
         {
             "id": 3,
             "year": 2021,
             "description": "I got my certificates on Mechanical Engineering.",
             "place": "AESDP",
-            "type": "certificate"
         },
         {
             "id": 4,
             "year": 2020,
             "description": "I got my matric certificate with a bachelor's pass.",
             "place": "Livingstone High School",
-            "type": "certificate"
         }
     ],
     "skills": [
